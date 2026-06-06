@@ -1,0 +1,2 @@
+#!/bin/sh
+echo 'HardwareVerifier v1.0.0'
